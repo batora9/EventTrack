@@ -1,0 +1,4 @@
+[[d1_databases]]
+binding = "DB"
+database_name = "my-application-db"
+database_id = "f6e64e34-45a4-4143-ac61-fd7e63da1478"
